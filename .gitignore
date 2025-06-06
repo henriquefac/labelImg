@@ -41,3 +41,7 @@ __pycache__/
 .unison*
 .attach*
 tmp.*
+
+main
+init.bat
+.gitignore
