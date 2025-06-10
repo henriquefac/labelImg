@@ -1,0 +1,7 @@
+path: ../YOLO_v11 # Caminho raiz para as imagens e labels
+train: train/images # Caminho relativo a 'path' para imagens de treino
+val: val/images # Caminho relativo a 'path' para imagens de validação
+test: test/images # Opcional: caminho para imagens de teste
+
+names:
+  0: waldo

@@ -42,5 +42,18 @@ __pycache__/
 .attach*
 tmp.*
 
+YOLO_v11/val/images
+YOLO_v11/val/labels
+YOLO_v11/train/images
+YOLO_v11/train/labels
+YOLO_v11/val/images_full
+YOLO_v11/val/labels_full
+YOLO_v11/train/images_full
+YOLO_v11/train/labels_full
+YOLO_v11/test/images
+YOLO_v11/test/labels
+
+/.venv
 .venv
-.gitignore
+.venv/*
+crop_dir.zip
